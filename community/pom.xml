@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>community</name>
 	<description>nowcoder community</description>
-
+<!-- java  version-->
 	<properties>
 		<java.version>12</java.version>
 	</properties>
